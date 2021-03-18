@@ -1,4 +1,6 @@
 ## ✍ 프로젝트 소개
+![](https://img.shields.io/badge/Project-gractorDRMS-blue?style=for-the-badge)
+
 ### 1. About
 이 프로젝트는 gractor 기업협업 프로젝트로, 회사에 없는 다양한 **재난 대응 시스템(DRMS)** 를 제안하기 위해 경쟁사 사이트를 분석하고 클론한 서비스입니다.  
 그 중 감염병 관련 시스템을 구현하였고, 실시간 데이터를 토대로 차트를 제공합니다. 
@@ -24,6 +26,8 @@ mqtt, websocket 을 이용해 실시간 데이터를 받고 line, bar 타입의 
 대시보드 생성, 각 페이지 렌더링을 위한 데이터 요청, 업무 상태 수정 등 필요한 API 작성 및 로직 처리   
 
 ### 😀 이현규 Full-Stack
+
+[github page](https://github.com/Aiden76005588)
 1. **ssh 원격 서버 접속 및 환경 구축**  
 public ip 터널링 및 포트 포워딩을 통해 domain `[nas.gractor.com](http://nas.gractor.com)` 으로 사내 서버에 접근 
 2. Use **NoSQL Database**  🌟  
@@ -64,7 +68,13 @@ mqtt, websocket을 통해 실시간 데이터를 받고, 차트 및 지도를 �
 ![image](https://user-images.githubusercontent.com/37296369/111068679-1fd42d00-850d-11eb-9544-19d9be6808d6.png)
 
 ### IV. API 문서
-//여기
+![스크린샷 2021-03-15 00 11 19](https://user-images.githubusercontent.com/66179677/111073810-88c69f80-8523-11eb-9b94-6c02cb191c39.png)
+![스크린샷 2021-03-15 00 12 10](https://user-images.githubusercontent.com/66179677/111073813-8bc19000-8523-11eb-9a53-8e43ecd6b77f.png)
+![스크린샷 2021-03-15 00 12 47](https://user-images.githubusercontent.com/66179677/111073818-97ad5200-8523-11eb-8724-45cc96b6a2db.png)
+![스크린샷 2021-03-15 00 13 06](https://user-images.githubusercontent.com/66179677/111073820-98de7f00-8523-11eb-9661-9688e4a3a810.png)
+![스크린샷 2021-03-15 00 13 31](https://user-images.githubusercontent.com/66179677/111073822-9a0fac00-8523-11eb-841a-94e92a24e422.png)
+![스크린샷 2021-03-15 00 13 46](https://user-images.githubusercontent.com/66179677/111073824-9b40d900-8523-11eb-9c0a-a87b999b0255.png)
+
 
 
 ## ✍ Final App view
@@ -125,5 +135,37 @@ ElasticSearch에 저장된 위도 경도 데이터를 받아와서 kakao map에 
 
 ***
 
-## 회고록 및 시행착오
-* 김선미 회고록
+# 🗣 우리를 소개합니다.
+
+
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ddubbu">
+          <sub>
+            <b>김선미</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🚩 FullStack</strong>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <a href="https://github.com/Aiden76005588">
+          <sub>
+            <b>이현규</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🚩 FullStack</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
